@@ -44,9 +44,8 @@ https://alfian711.wordpress.com/2023/12/31/algoritma-log-in-facebook/
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-- Beri penjelasan
-- Beri komentar, bahasa indonesia
-- Lebih bagus buat juga flowchart nya
+
+![Contoh](BubbleSort.png)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 - IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
@@ -223,6 +222,8 @@ Referensi:
 - https://colab.research.google.com/drive/1pA5MgfR5JaBdVfbKSq5G05pZD60EuK6J?usp=sharing
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+
+https://alfian711.wordpress.com/2023/12/31/pengertian-jurnal-conference-artikel-grade-jurnal/
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 - https://ieeexplore.ieee.org/Xplore/home.jsp
