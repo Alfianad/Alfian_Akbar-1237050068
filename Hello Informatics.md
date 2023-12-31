@@ -15,9 +15,9 @@ https://alfian711.wordpress.com/2023/12/31/jenis-jenis-mesin-komputasi/
     - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
     - Program berbasis console jauh lebih cepat dari program berbasis GUI
 
-### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
+### Console di Windows Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+![Contoh](cmd.png)
 
 ### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -36,15 +36,8 @@ Print saya sekarang ada di posisi mana
 - [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- Contoh:
-    - Flowchart daftar ulang perkuliahan
-    - Flowchart musuh di game mengejar karakter
-    - Flowchart bayar pajak STNK
-    - Flowchart membuat paspor
-    - Flowchart sortir daftar mahasiswa
-    - Flowchart login Instagram
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+https://alfian711.wordpress.com/2023/12/31/algoritma-log-in-facebook/
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
