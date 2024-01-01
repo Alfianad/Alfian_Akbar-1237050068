@@ -170,6 +170,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://alfian711.wordpress.com/
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
@@ -255,11 +257,17 @@ Referensi:
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+https://www.linkedin.com/in/alfian-akbar-darazat-6373b12a7/
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+
+https://github.com/Alfianad
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+![Contoh](sertifikat.png)
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
-
+https://alfian711.wordpress.com/2023/12/31/hal-yang-menginspirasi-dari-novel-english-classics-sherlock-holmes/
 
