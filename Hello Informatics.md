@@ -36,7 +36,7 @@ https://alfian711.wordpress.com/2023/12/31/algoritma-log-in-facebook/
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+https://drive.google.com/file/d/150bjulDXrvsWwRShU94R_HqMSs_EzsW5/view?usp=sharing
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
