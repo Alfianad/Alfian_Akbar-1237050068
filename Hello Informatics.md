@@ -9,12 +9,6 @@ https://alfian711.wordpress.com/2023/12/31/jenis-jenis-mesin-komputasi/
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
 
-## Mencoba Console Sistem Operasi
-- Karena console
-    - Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
-    - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
-    - Program berbasis console jauh lebih cepat dari program berbasis GUI
-
 ### Console di Windows Windows CMD [v] ⭐⭐⭐⭐
 
 ![Contoh](cmd.png)
@@ -260,8 +254,8 @@ https://www.youtube.com/watch?v=kz3SsR90iMo
 https://www.youtube.com/watch?v=7ht1JYRQybg
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Referensi:
-- https://roadmap.sh/
+
+https://www.youtube.com/watch?v=PO96FofgrMQ
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
