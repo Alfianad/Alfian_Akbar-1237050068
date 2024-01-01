@@ -213,6 +213,8 @@ https://www.youtube.com/watch?v=9F0dcmCEmdc
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+https://youtube.com/shorts/1Bv6NuNcCPU?si=iox0Hr2zxQhr1cdm
+
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 Referensi:
 - https://colab.research.google.com/drive/1AMLJIYM4r-uirkf1mKrkmqHAAgXTTwww?usp=sharing
