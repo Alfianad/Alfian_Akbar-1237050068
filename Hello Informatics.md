@@ -96,10 +96,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://www.youtube.com/watch?v=FRY2_s7fYo0
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -114,27 +111,8 @@ Referensi:
 - [On page SEO](https://backlinko.com/on-page-seo)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-- Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
 
-```json
-{
-    "nama_data": "List Mahasiswa 2023",
-    "isi_data": [
-        {
-            "nim": "93487534",
-            "nama": "Aden",
-            "tl": 2005,
-            "aktif": true
-        },
-        {
-            "nim": "93487535",
-            "nama": "Juli",
-            "tl": 2005,
-            "aktif": true
-        }
-    ]
-}
-```
+https://drive.google.com/drive/folders/1-6E3gkxCpm-S3hR5XY9zx3f4HOHeH5Dl
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
