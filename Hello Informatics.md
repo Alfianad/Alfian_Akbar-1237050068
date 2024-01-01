@@ -7,7 +7,8 @@ https://alfian711.wordpress.com/2023/12/19/computional-thinking/
 https://alfian711.wordpress.com/2023/12/31/jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
+
+https://drive.google.com/file/d/1brGBRI221mAEfCu89yQyWVzDqlV4mAwo/view?usp=sharing
 
 ### Console di Windows Windows CMD [v] ⭐⭐⭐⭐
 
