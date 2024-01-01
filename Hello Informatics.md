@@ -143,11 +143,11 @@ Referensi:
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-Tips:
-- Cari di Google: web hosting murah bulanan indonesia
-- Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
+https://youtu.be/XzRrG14_L-k
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+https://youtu.be/XzRrG14_L-k
 
 ## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
 
