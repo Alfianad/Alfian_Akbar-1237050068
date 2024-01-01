@@ -227,6 +227,8 @@ https://drive.google.com/file/d/1TAiJABvFi5hnFpDHNLsu75nvdcwbSqlU/view?usp=shari
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+https://drive.google.com/file/d/1lJZcFVX0SnKPszVwJMF2IKnN6nahspsA/view?usp=sharing
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 https://www.youtube.com/watch?v=kz3SsR90iMo
