@@ -223,6 +223,8 @@ https://alfian711.wordpress.com/2024/01/01/profesi-yang-berkaitan-dengan-informa
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+https://drive.google.com/file/d/1TAiJABvFi5hnFpDHNLsu75nvdcwbSqlU/view?usp=sharing
+
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
