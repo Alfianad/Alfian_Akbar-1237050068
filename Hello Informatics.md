@@ -206,12 +206,12 @@ Referensi:
 - [ChartJS](https://www.chartjs.org/docs/latest/getting-started/)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-Referensi:
-- [Huggingface](https://huggingface.co/)
-- [Contoh penggunaan di Google Colab](https://colab.research.google.com/drive/1mcMiav2NBk4UcnttAuB4reSCeWuywjmj?usp=sharing)
+
+https://www.youtube.com/watch?v=K56ZkvUGBCg
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-- https://www.kaggle.com
+
+https://www.youtube.com/watch?v=9F0dcmCEmdc
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -236,6 +236,8 @@ https://alfian711.wordpress.com/2023/12/31/pengertian-jurnal-conference-artikel-
 - Eksplorasi juga jurnal yang disuka di https://www.scimagojr.com/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+
+https://alfian711.wordpress.com/2024/01/01/menonton-presentasi-tugas-akhir-informatika/
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
