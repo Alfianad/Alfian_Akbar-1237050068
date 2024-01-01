@@ -43,13 +43,8 @@ https://drive.google.com/file/d/150bjulDXrvsWwRShU94R_HqMSs_EzsW5/view?usp=shari
 ![Contoh](BubbleSort.png)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
-- Contoh:
-    - VS Code
-    - Unity
-    - Android Studio
-    - Notepad ++
-    - Vim
+
+https://drive.google.com/file/d/1MTGk6Lot9w7oDCBOO9Can8q5V43C51gB/view?usp=sharing
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 - Sebagai developer
