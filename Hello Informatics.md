@@ -174,7 +174,11 @@ https://alfian711.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+https://www.youtube.com/watch?v=4rDgN_RMp_U
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+https://www.youtube.com/watch?v=f-SypRnRPdA
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 ![Alt text](https://cdn.serc.carleton.edu/images/NAGTWorkshops/complexsystems/netlogo_aquarium_macro-level_m.webp)
@@ -241,21 +245,27 @@ https://alfian711.wordpress.com/2024/01/01/menonton-presentasi-tugas-akhir-infor
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+https://alfian711.wordpress.com/2024/01/01/profesi-yang-berkaitan-dengan-informatika/
+
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+https://www.youtube.com/watch?v=kz3SsR90iMo
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+https://www.youtube.com/watch?v=7ht1JYRQybg
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Referensi:
 - https://roadmap.sh/
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-Referensi:
-- https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
+
+https://www.youtube.com/watch?v=9TiNHr4RDik
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
