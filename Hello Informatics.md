@@ -183,7 +183,11 @@ Referensi:
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+https://drive.google.com/file/d/1n28Xw9qBpQAE8HDnOn62-b3YvlghO_67/view?usp=sharing
+
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+
+https://drive.google.com/file/d/1TGNj6VtyGFZNvpMQQQEja9wePyeQlL-k/view?usp=sharing
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
