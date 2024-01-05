@@ -15,7 +15,7 @@ Saya menggunakan beberapa teknologi untuk membangun aplikasi ini, yaitu :
 
 Merk : limitless
 
-Tagline : Kecepatan yang dipastikan
+Tagline : Kecepatan yang pasti
 
 campaign : Tempat dimana anda bisa memastikan secepat dan selancar apa internet yang anda gunakan, karena kita hidup di era internet menjadi salah satu kebutuhan utama untuk sebagian besar dari kita.
 
